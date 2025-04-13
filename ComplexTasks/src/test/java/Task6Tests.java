@@ -54,7 +54,7 @@ public class Task6Tests {
     }
 
     @ParameterizedTest
-    @MethodSource("validTaskToAdd")
+    @MethodSource("validTaskToDelete")
     public void deleteTask(Task<?> t){
         ts.deleteTask(t.getId());
         Assertions.assertFalse(ts.getAllTasks().contains(t), "Task wasn't deleted: " + t);
