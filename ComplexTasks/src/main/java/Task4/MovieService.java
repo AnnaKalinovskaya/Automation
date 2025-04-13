@@ -11,7 +11,7 @@ public class MovieService {
             throw new IllegalArgumentException("Valid rating value is 1-10.");
         }
         movie.setRate(rate);
-        moviesData.put(movie, movie.getRatings());
+        this.moviesData.put(movie, movie.getRatings());
     }
 
     public double averageRating (Movie movie){
@@ -30,6 +30,10 @@ public class MovieService {
         }
         moviesWithAverage.sort(Map.Entry.comparingByValue(Collections.reverseOrder()));
         return moviesWithAverage.stream().map(Map.Entry::getKey).toList();
+    }
+
+    public Map<Movie, List<Rating>> getMoviesData(){
+        return this.moviesData;
     }
 
 }
