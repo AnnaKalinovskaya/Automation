@@ -1,7 +1,7 @@
 package patterns.abstractfactory;
 
 public class Main {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         Chair myChair = new ModernFactory().createChair();
         Table myTable = new ModernFactory().createTable();
 
@@ -11,7 +11,6 @@ public class Main {
 
         new WindowsFactory().createButton().showElement();
         new WindowsFactory().createWindow().showElement();
-
 
 
     }
