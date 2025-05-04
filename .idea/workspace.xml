@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08baaacf-a8c7-4fc1-8a8c-b0cd2f8e0ad5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CleanCode/src/main/java/patterns/abstractfactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CleanCode/src/main/java/patterns/abstractfactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanCode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CleanCode/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +31,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Automation",
+    "last_opened_file_path": "D:/Automation/CleanCode",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -93,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745956689915</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added last 3 pattern tasks (Adapter, Facade, Builder)">
+      <option name="closed" value="true" />
+      <created>1745957130743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745957130744</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +120,7 @@
     <MESSAGE value="changed dir structure" />
     <MESSAGE value="added tasks for 3 patterns (Singleton, Factory, Abstract Factory)" />
     <MESSAGE value="added tasks for 3 patterns (Adapter, Facade, Builder)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added tasks for 3 patterns (Adapter, Facade, Builder)" />
+    <MESSAGE value="added last 3 pattern tasks (Adapter, Facade, Builder)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added last 3 pattern tasks (Adapter, Facade, Builder)" />
   </component>
 </project>
