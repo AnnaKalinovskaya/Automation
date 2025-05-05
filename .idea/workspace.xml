@@ -108,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746382414633</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added 3rd task from ComplexTasks HW (Clean Code)">
+      <option name="closed" value="true" />
+      <created>1746384025518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746384025518</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +137,7 @@
     <MESSAGE value="added tasks for 3 patterns (Adapter, Facade, Builder)" />
     <MESSAGE value="added last 3 pattern tasks (Adapter, Facade, Builder)" />
     <MESSAGE value="added 1 task from ComplexTasks HW (Clean Code)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 1 task from ComplexTasks HW (Clean Code)" />
+    <MESSAGE value="added 3rd task from ComplexTasks HW (Clean Code)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 3rd task from ComplexTasks HW (Clean Code)" />
   </component>
 </project>
